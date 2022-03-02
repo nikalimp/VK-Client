@@ -166,6 +166,26 @@
 			path = Group;
 			sourceTree = "<group>";
 		};
+		92836C1027CFBE8400B55691 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				920BB0E227C6346700304B5C /* Extensions.swift */,
+				920BB0DE27C62FEB00304B5C /* RoundedImageView.swift */,
+				920BB0D127C624A600304B5C /* UserInfoViewController.swift */,
+				9229279A27C618F600B6E686 /* Session.swift */,
+				9229279827C6177D00B6E686 /* VKAuthViewController.swift */,
+				9229279627C6161500B6E686 /* HelloViewController.swift */,
+				92FF638927C60ECF00A91E41 /* SceneDelegate.swift */,
+				92FF638B27C60ECF00A91E41 /* ViewController.swift */,
+				92D8010827C642AE00ED305B /* Config.swift */,
+				92439C2327C66FE2009CD421 /* Menus.swift */,
+				92439C2527C6700D009CD421 /* LikeButton.swift */,
+				92439C2C27C67128009CD421 /* GalleryFlowLayout.swift */,
+				92FF638727C60ECF00A91E41 /* AppDelegate.swift */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
 		92D800F927C63D8000ED305B /* API */ = {
 			isa = PBXGroup;
 			children = (
@@ -220,21 +240,9 @@
 				92439C2727C67054009CD421 /* Friends */,
 				92D800FF27C63F4600ED305B /* Models */,
 				92D800F927C63D8000ED305B /* API */,
-				920BB0E227C6346700304B5C /* Extensions.swift */,
-				920BB0DE27C62FEB00304B5C /* RoundedImageView.swift */,
-				920BB0D127C624A600304B5C /* UserInfoViewController.swift */,
-				9229279A27C618F600B6E686 /* Session.swift */,
-				9229279827C6177D00B6E686 /* VKAuthViewController.swift */,
-				9229279627C6161500B6E686 /* HelloViewController.swift */,
-				92FF638927C60ECF00A91E41 /* SceneDelegate.swift */,
-				92FF638B27C60ECF00A91E41 /* ViewController.swift */,
-				92D8010827C642AE00ED305B /* Config.swift */,
-				92439C2327C66FE2009CD421 /* Menus.swift */,
-				92439C2527C6700D009CD421 /* LikeButton.swift */,
-				92439C2C27C67128009CD421 /* GalleryFlowLayout.swift */,
-				92FF638727C60ECF00A91E41 /* AppDelegate.swift */,
-				92FF638D27C60ECF00A91E41 /* Main.storyboard */,
+				92836C1027CFBE8400B55691 /* Other */,
 				92FF639027C60ED000A91E41 /* Assets.xcassets */,
+				92FF638D27C60ECF00A91E41 /* Main.storyboard */,
 				92FF639227C60ED000A91E41 /* LaunchScreen.storyboard */,
 				92FF639527C60ED000A91E41 /* Info.plist */,
 			);
