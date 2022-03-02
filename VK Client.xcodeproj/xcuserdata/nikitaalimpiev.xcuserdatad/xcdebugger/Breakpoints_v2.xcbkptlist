@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "69D36881-DC7D-413D-92D1-2717BD7A2F09"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK Client/Group/GroupTableViewCellNoDesc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GroupTableViewCellNoDesc"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E - c127cbbc9de489de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Client.GroupTableViewCellNoDesc.groupImage.getter : Swift.Optional&lt;VK_Client.RoundedImageView&gt;"
+                  moduleName = "VK Client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaalimpiev/Desktop/GB/VK%20Client/VK%20Client/Group/GroupTableViewCellNoDesc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E - e643c03d060dadfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Client.GroupTableViewCellNoDesc.groupImage.setter : Swift.Optional&lt;VK_Client.RoundedImageView&gt;"
+                  moduleName = "VK Client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaalimpiev/Desktop/GB/VK%20Client/VK%20Client/Group/GroupTableViewCellNoDesc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E - 5a493674c39d0164"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Client.GroupTableViewCellNoDesc.groupImage.modify : Swift.Optional&lt;VK_Client.RoundedImageView&gt;"
+                  moduleName = "VK Client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaalimpiev/Desktop/GB/VK%20Client/VK%20Client/Group/GroupTableViewCellNoDesc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E - d3667aa397380e9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Client.GroupTableViewCellNoDesc.groupImage.modify : Swift.Optional&lt;VK_Client.RoundedImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "VK Client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaalimpiev/Desktop/GB/VK%20Client/VK%20Client/Group/GroupTableViewCellNoDesc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E - 93f565d0cb59285a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Client.GroupTableViewCellNoDesc.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; VK_Client.GroupTableViewCellNoDesc"
+                  moduleName = "VK Client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaalimpiev/Desktop/GB/VK%20Client/VK%20Client/Group/GroupTableViewCellNoDesc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C1ED8FB3-93AA-493C-9216-53AFAA9F298E - b16074e01a3c7d64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Client.GroupTableViewCellNoDesc.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;VK_Client.GroupTableViewCellNoDesc&gt;"
+                  moduleName = "VK Client"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaalimpiev/Desktop/GB/VK%20Client/VK%20Client/Group/GroupTableViewCellNoDesc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
